@@ -1,0 +1,25 @@
+.contimg{
+    background-image: linear-gradient(rgb(0,0,0,0.45),rgb(0,0,0,0.45)),url('./ImagesContact/about-bg-2.jpg');
+    width:100%;
+    height:80vh;
+    background-size: cover;
+}
+.cnthd{
+    text-align: center;
+    margin-top: 10%;
+    color:white;
+    font-size: 4vw;
+    font-weight: 700;
+}
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.cnt{
+    font-size: 2.5vw;
+    font-weight: 700;
+}
+.form{
+    margin-top: 5%;
+}
